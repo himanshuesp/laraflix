@@ -1,2 +1,2 @@
 # Netflix
-Netflix clone that should be up on netflix.quinl.in if my garbage router hasn't wiped my port forwards.
+Netflix clone made on Laravel as a part of Project in 6th sem.
